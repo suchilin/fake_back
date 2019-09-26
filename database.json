@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "id": 1,
+    "username": "5583276969"
+  },
+  "asociados": [
+    {
+      "nombre": "jesus",
+      "apellidoPaterno": "gutierrez",
+      "apellidoMaterno": "zapata",
+      "fechaDeNacimiento": "06/06/1984",
+      "rfc": "guzj840606u23",
+      "genero": "masculino",
+      "estadoCivil": "casado",
+      "identificacion": "ine",
+      "folioDeIdentificacion": "XXXXXXX",
+      "calle": "lago patzcuaro",
+      "numeroExterion": "12",
+      "numeroInterior": "",
+      "codigoPostal": "11320",
+      "colonia": "01",
+      "municipio": "02",
+      "ciudad": "03",
+      "comprobanteDeDomicilio": "",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "companiaCelular": "att",
+      "empleo": "chalan",
+      "ingreso": "10000.0",
+      "aSidoAsociado": false
+    }
+  ]
+}
