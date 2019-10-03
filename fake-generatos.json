@@ -1,0 +1,16 @@
+[
+  {
+ 'repeat(5, 10)': {
+      id: '{{objectId()}}',
+      nombre: '{{firstName()}}',
+      apellidoPaterno: '{{surname()}}',
+      apellidoMaterno: '{{surname()}}',
+      telefonoFijo: "1234567890",
+      telefonoCelular: "5583276969",
+      empleo: "chalan",
+      ingreso: '{{floating(1000, 4000, 2, "0.00")}}',
+      estrellas: '{{integer(1, 5)}}',
+      activo: '{{bool()}}'
+    }
+  }
+]

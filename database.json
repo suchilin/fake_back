@@ -1,33 +1,224 @@
 {
+  "cartografia": {
+    "cpostal": "11320",
+    "municipios": [
+      {
+        "id": "miguelhidalgo-1234",
+        "label": "Miguel hidalgo",
+        "ciudades": [
+          {
+            "id": "ciudaddemexico-5678",
+            "label": "Ciudad de mexico",
+            "colonias": [
+              {
+                "id": "vanzures-0987",
+                "label": "Veronica anzures"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "profile": {
     "id": 1,
-    "username": "5583276969"
+    "username": "5583276969",
+    "idCliente": "cliente_1",
+    "miembroDesde": "01/10/2019",
+    "nombre": "jose de jesus",
+    "apellidos": "gutierrez zapata",
+    "fechaDeNacimiento": "06/06/1984",
+    "rfc": "guzj840606u23",
+    "calle": "bahia de santa barbara",
+    "numeroExterior": "145",
+    "numeroInterior": "",
+    "colonia": "veronica anzures",
+    "ciudad": "",
+    "municipio": "Miguel hidalgo",
+    "estado": "CDMX",
+    "telefonoFijo": "1234567890",
+    "telefonoCelular": "5583276969"
   },
   "asociados": [
     {
-      "nombre": "jesus",
-      "apellidoPaterno": "gutierrez",
-      "apellidoMaterno": "zapata",
-      "fechaDeNacimiento": "06/06/1984",
-      "rfc": "guzj840606u23",
-      "genero": "masculino",
-      "estadoCivil": "casado",
-      "identificacion": "ine",
-      "folioDeIdentificacion": "XXXXXXX",
-      "calle": "lago patzcuaro",
-      "numeroExterion": "12",
-      "numeroInterior": "",
-      "codigoPostal": "11320",
-      "colonia": "01",
-      "municipio": "02",
-      "ciudad": "03",
-      "comprobanteDeDomicilio": "",
+      "id": 0,
+      "nombre": "Cooper",
+      "apellidoPaterno": "Reid",
+      "apellidoMaterno": "Sosa",
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
-      "companiaCelular": "att",
       "empleo": "chalan",
-      "ingreso": "10000.0",
-      "aSidoAsociado": false
+      "ingreso": "3913.20",
+      "estrellas": 3,
+      "activo": true
+    },
+    {
+      "id": 1,
+      "nombre": "Walls",
+      "apellidoPaterno": "Cabrera",
+      "apellidoMaterno": "Jacobson",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "1165.73",
+      "estrellas": 5,
+      "activo": false
+    },
+    {
+      "id": 2,
+      "nombre": "Bonita",
+      "apellidoPaterno": "Delacruz",
+      "apellidoMaterno": "Gilbert",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "2610.57",
+      "estrellas": 4,
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Dena",
+      "apellidoPaterno": "Acevedo",
+      "apellidoMaterno": "Stone",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3757.46",
+      "estrellas": 4,
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellidoPaterno": "Woodard",
+      "apellidoMaterno": "Peck",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3244.50",
+      "estrellas": 3,
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Hurley",
+      "apellidoPaterno": "Estrada",
+      "apellidoMaterno": "Mcmillan",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "2752.64",
+      "estrellas": 2,
+      "activo": false
+    },
+    {
+      "id": 6,
+      "nombre": "Boone",
+      "apellidoPaterno": "Cain",
+      "apellidoMaterno": "Frank",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "2106.80",
+      "estrellas": 1,
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Cassie",
+      "apellidoPaterno": "Bass",
+      "apellidoMaterno": "Cole",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3348.32",
+      "estrellas": 4,
+      "activo": true
+    },
+    {
+      "id": 8,
+      "nombre": "Jennings",
+      "apellidoPaterno": "Chen",
+      "apellidoMaterno": "Freeman",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3393.27",
+      "estrellas": 5,
+      "activo": true
+    },
+    {
+      "id": 9,
+      "nombre": "Ford",
+      "apellidoPaterno": "Franklin",
+      "apellidoMaterno": "Campbell",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "1923.88",
+      "estrellas": 1,
+      "activo": false
+    },
+    {
+      "id": 10,
+      "nombre": "Minerva",
+      "apellidoPaterno": "Hernandez",
+      "apellidoMaterno": "Hickman",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3706.38",
+      "estrellas": 4,
+      "activo": true
+    },
+    {
+      "id": 11,
+      "nombre": "Clemons",
+      "apellidoPaterno": "Kelly",
+      "apellidoMaterno": "Rush",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "1279.42",
+      "estrellas": 4,
+      "activo": false
+    },
+    {
+      "id": 12,
+      "nombre": "Bianca",
+      "apellidoPaterno": "Reeves",
+      "apellidoMaterno": "Odom",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "1856.29",
+      "estrellas": 1,
+      "activo": true
+    },
+    {
+      "id": 13,
+      "nombre": "Gayle",
+      "apellidoPaterno": "Marshall",
+      "apellidoMaterno": "Sullivan",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "2642.20",
+      "estrellas": 5,
+      "activo": false
+    },
+    {
+      "id": 14,
+      "nombre": "Christian",
+      "apellidoPaterno": "Cook",
+      "apellidoMaterno": "Gray",
+      "telefonoFijo": "1234567890",
+      "telefonoCelular": "5583276969",
+      "empleo": "chalan",
+      "ingreso": "3466.57",
+      "estrellas": 1,
+      "activo": true
     }
   ]
 }
