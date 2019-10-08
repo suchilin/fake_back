@@ -48,7 +48,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3913.20",
+      "ingreso": 3913.20,
       "estrellas": 3,
       "activo": true
     },
@@ -60,7 +60,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "1165.73",
+      "ingreso": 1165.73,
       "estrellas": 5,
       "activo": false
     },
@@ -72,7 +72,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "2610.57",
+      "ingreso": 2610.57,
       "estrellas": 4,
       "activo": false
     },
@@ -84,7 +84,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3757.46",
+      "ingreso": 3757.46,
       "estrellas": 4,
       "activo": true
     },
@@ -96,7 +96,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3244.50",
+      "ingreso": 3244.50,
       "estrellas": 3,
       "activo": true
     },
@@ -108,7 +108,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "2752.64",
+      "ingreso": 2752.64,
       "estrellas": 2,
       "activo": false
     },
@@ -120,7 +120,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "2106.80",
+      "ingreso": 2106.80,
       "estrellas": 1,
       "activo": true
     },
@@ -132,7 +132,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3348.32",
+      "ingreso": 3348.32,
       "estrellas": 4,
       "activo": true
     },
@@ -144,7 +144,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3393.27",
+      "ingreso": 3393.27,
       "estrellas": 5,
       "activo": true
     },
@@ -156,7 +156,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "1923.88",
+      "ingreso": 1923.88,
       "estrellas": 1,
       "activo": false
     },
@@ -168,7 +168,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3706.38",
+      "ingreso": 3706.38,
       "estrellas": 4,
       "activo": true
     },
@@ -180,7 +180,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "1279.42",
+      "ingreso": 1279.42,
       "estrellas": 4,
       "activo": false
     },
@@ -192,7 +192,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "1856.29",
+      "ingreso": 1856.29,
       "estrellas": 1,
       "activo": true
     },
@@ -204,7 +204,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "2642.20",
+      "ingreso": 2642.20,
       "estrellas": 5,
       "activo": false
     },
@@ -216,7 +216,7 @@
       "telefonoFijo": "1234567890",
       "telefonoCelular": "5583276969",
       "empleo": "chalan",
-      "ingreso": "3466.57",
+      "ingreso": 3466.57,
       "estrellas": 1,
       "activo": true
     }
